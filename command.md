@@ -7,7 +7,7 @@
 ## Why I love markdown
 I really enjoyed learning about markdown so I can make the readme files for my **future projects!** how awesome!
 
-### More about Markdown
+### More about Markdowng
 I can write in *Italics* or in **bold**, or ***both***.
 As my father once said once:
 >Do as you do and you'll do best!
